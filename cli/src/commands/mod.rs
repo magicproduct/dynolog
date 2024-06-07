@@ -13,4 +13,5 @@ pub mod dcgm;
 pub mod gputrace;
 pub mod status;
 pub mod version;
+pub mod batch;
 // ... add new command modules here
